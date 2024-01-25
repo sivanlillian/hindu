@@ -194,7 +194,7 @@ header a{color:#fff;text-transform:uppercase;font-size:18px}header a
 
 .google-map {
     position: relative;
-    padding-bottom: 50%; /* Adjust the aspect ratio if needed */
+    padding-bottom: 30%; /* Adjust the aspect ratio if needed */
     width: 100%; /* Map width */
     height: 0;
     overflow: hidden;
